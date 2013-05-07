@@ -7,7 +7,7 @@
   <p>
 
 <?php
-print $_SERVER["SERVER_NAME"]
+print $_SERVER["SERVER_ADDR"]
 ?>
 </body>
 </html>
